@@ -1,0 +1,68 @@
+[
+  {
+    "_id": "test-question-1",
+    "question": "What is React?",
+    "answers": [
+      {
+        "text": "A JavaScript library for building user interfaces",
+        "isCorrect": true
+      },
+      {
+        "text": "A server-side programming language",
+        "isCorrect": false
+      },
+      {
+        "text": "A database management system",
+        "isCorrect": false
+      },
+      {
+        "text": "An operating system",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "_id": "test-question-2",
+    "question": "What is TypeScript?",
+    "answers": [
+      {
+        "text": "A database query language",
+        "isCorrect": false
+      },
+      {
+        "text": "A superset of JavaScript that adds static types",
+        "isCorrect": true
+      },
+      {
+        "text": "A CSS preprocessor",
+        "isCorrect": false
+      },
+      {
+        "text": "A JavaScript runtime environment",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "_id": "test-question-3",
+    "question": "What is MongoDB?",
+    "answers": [
+      {
+        "text": "A JavaScript framework",
+        "isCorrect": false
+      },
+      {
+        "text": "A SQL database",
+        "isCorrect": false
+      },
+      {
+        "text": "A NoSQL document database",
+        "isCorrect": true
+      },
+      {
+        "text": "A programming language",
+        "isCorrect": false
+      }
+    ]
+  }
+] 
